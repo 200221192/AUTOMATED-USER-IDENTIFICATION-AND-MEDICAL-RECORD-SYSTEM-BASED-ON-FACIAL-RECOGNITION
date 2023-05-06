@@ -9,7 +9,7 @@ User Dashboard
 
 
 Health Insurance
-Screenshot (278)
+![image](https://user-images.githubusercontent.com/92735311/236644335-fe43aaea-1faf-4c64-a546-8b0e8079cbb5.png)
 
 Hospital Dashboard
 Screenshot (279)
